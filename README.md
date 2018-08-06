@@ -1,0 +1,1 @@
+These are my examples of implementation of the 23 GoF Design Patterns using JAVA SE 8 based on the books: Head First Design Patterns (Bert Bates, Kathy Sierra et al, 2009) and the original GoF Book - Design Patterns: Elements of Reusable Object-Oriented Software (The "Gang of Four": Erich Gamma et al, 1994).
